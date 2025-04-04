@@ -41,7 +41,8 @@ Assingment 3 :
 
 
 
-![alt text](<Screenshot 2025-04-04 201415.png>)
+![Screenshot 2025-04-04 201415](https://github.com/user-attachments/assets/e2952915-c933-43cd-9465-e370e889a702)
+
 
 
 
@@ -50,4 +51,5 @@ Assingment 3 :
 
 
 
-![alt text](<Screenshot 2025-04-04 202236.png>)
+![Screenshot 2025-04-04 202236](https://github.com/user-attachments/assets/0641e8ec-99d4-48ac-a69c-d1f9dcdb309d)
+
