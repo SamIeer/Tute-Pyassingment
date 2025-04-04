@@ -34,3 +34,25 @@ Assingment 2:
 
 
 
+<<<<<<< HEAD
+=======
+
+
+Assingment 3 :
+#Task 1: Calculate Factorial Using a Function 
+
+
+
+![Screenshot 2025-04-04 201415](https://github.com/user-attachments/assets/e2952915-c933-43cd-9465-e370e889a702)
+
+
+
+
+
+#Task 2: Using the Math Module for Calculations
+
+
+
+![Screenshot 2025-04-04 202236](https://github.com/user-attachments/assets/0641e8ec-99d4-48ac-a69c-d1f9dcdb309d)
+
+>>>>>>> 111cf01f8558c3bef43bf60b405da8f3a130d2c8
