@@ -1,4 +1,18 @@
-Assingment 1
+<h1>Tutedude Assignments PYTHON </h1>
+
+<h2>Assignments List</h2>
+<ul>
+  <li><a href="#Assingment 1">Assingment 1</a></li>
+  <li><a href="Assingment 2">Assingment 2</a></li>
+  <li><a href="#Assingment 3">Assingment 3</a></li>
+  <li><a href="Assingment 4">Assingment 4</a></li>
+  <li><a href="#Assingment 5">Assingment 5</a></li>
+  <li><a href="Assingment 6">Assingment 6</a></li>
+</ul>
+
+<h2 id="Assingment 1">Assingment 1</h2>
+<p>Details about the Ctrain assignment...</p>
+
 Task one simple calculator 
 
 
@@ -16,7 +30,8 @@ Task two strings
 
 
 
-Assingment 2:
+<h2 id="Assingment 2">Assingment 2</h2>
+<p>Details about the Ctrain assignment...</p>
 1 Check if number is odd or even
 
 
@@ -34,11 +49,11 @@ Assingment 2:
 
 
 
-<<<<<<< HEAD
-=======
 
 
-Assingment 3 :
+
+<h2 id="Assingment 3">Assingment 3</h2>
+<p>Details about the Ctrain assignment...</p>
 #Task 1: Calculate Factorial Using a Function 
 
 
