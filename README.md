@@ -49,11 +49,26 @@
 <hr>
 <!-- Add more sections if Assignments 4 to 6 are available -->
 <h2 id="assignment4">Assignment 4</h2>
-<p>Details to be added...</p>
+
+<p><strong>Task 1: Read a File and Handle Errors</strong> — Demonstrates how to open and read a file in Python, while properly handling exceptions like `FileNotFoundError` to ensure the program doesn't crash.</p>
+<img src="https://github.com/user-attachments/assets/aae952dd-470c-4bcd-a789-b84a65f320ba" alt="Read File Error Handling">
+
+<p><strong>Task 2: Write and Append Data to a File</strong> — Shows how to write new data to a file and append additional content without overwriting the existing data using Python’s file handling methods.</p>
+<img src="https://github.com/user-attachments/assets/85f179ee-354b-406a-9515-1efc183aaa68" alt="Write and Append to File">
+
 <hr>
+
 <h2 id="assignment5">Assignment 5</h2>
-<p>Details to be added...</p>
+
+<p><strong>Task 1: Create a Dictionary of Student Marks</strong> — Involves creating and populating a dictionary with student names as keys and their marks as values, then accessing or modifying the data.</p>
+<img src="https://github.com/user-attachments/assets/b0403065-a693-4645-a0d1-4826cdbcf9ff" alt="Student Marks Dictionary">
+
+<p><strong>Task 2: Demonstrate List Slicing</strong> — Demonstrates how to access parts of a list using slicing techniques to retrieve subsets of data efficiently.</p>
+<img src="https://github.com/user-attachments/assets/0749e09a-319d-47b0-b69b-85f6448a1e27" alt="List Slicing">
+
+  
 <hr>
+
 <h2 id="assignment6">Assignment 6</h2>
 <p>Details to be added...</p>
 
